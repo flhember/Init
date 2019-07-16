@@ -1,1 +1,1 @@
-adduser
+sudo adduser new_user

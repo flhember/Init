@@ -1,3 +1,4 @@
+#ls /etc/init.d/
 alsa-utils
 anacron
 avahi-daemon

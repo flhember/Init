@@ -1,1 +1,1 @@
-Sudo service ssh start
+ssh "user@ip"
