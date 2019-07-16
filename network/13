@@ -1,0 +1,5 @@
+network(master) ✗: nslookup 10.11.6.7
+Server:		10.51.1.42
+Address:	10.51.1.42#53
+
+7.6.11.10.in-addr.arpa	name = e1r6p7.42.fr.

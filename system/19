@@ -1,0 +1,27 @@
+alsa-utils
+anacron
+avahi-daemon
+bluetooth
+console-setup.sh
+cron
+dbus
+exim4
+gdm3
+hwclock.sh
+keyboard-setup.sh
+kmod
+minissdpd
+networking
+network-manager
+pppd-dns
+procps
+rsyslog
+saned
+speech-dispatcher
+ssh
+sudo
+udev
+unattended-upgrades
+x11-common
+
+Ce type de service s'appelle les daemon

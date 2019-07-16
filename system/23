@@ -1,0 +1,3 @@
+En session graphique il nous suiffit d'aller dans la fleche vers le bas en
+haut a gauche puis dans changer d'utilisatuer.
+En session ssh, su <utilisateur> puis entrer le mot de passe.
